@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Flutter / Android build output
+build/
+.dart_tool/
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# Keep the extracted Flutter source, not the zip
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
